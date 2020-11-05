@@ -22,6 +22,7 @@
     - 上传代码   git add <filename>
     - 提交备注   git commit -m "message"
     - push文件   git push origin master (若 push 不成功，可加 -f 进行强推操作)
+    - 添加key    SSH新建公钥
 
 ## 安装
 1. go 安装 以 zip安装，需要配置环型变量，以及 config 文件写入
