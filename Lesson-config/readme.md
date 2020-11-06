@@ -17,7 +17,7 @@
     - 生成密钥   ssh-keygen -t rsa -C "your_email@youremail.com"
     - 验证密钥   ssh -T git@github.com
     - 连接仓库   git remote add origin https://github.com/yourName/repositoryname.git
-    - 仓库pull   git pull origin master
+    - 仓库pull   git pull origin main
     - 查看工作目录的状态  git status
     - 上传代码   git add <filename>
     - 提交备注   git commit -m "message"
