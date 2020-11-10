@@ -36,4 +36,4 @@
 
 - Route 标签
     <Route exact path={`/html/a/view`} component={CompanyList} />
-    * exact 路由严格匹配，根据path提供的路径进行严格匹配html/a/view,如果路由为 a/view 流浪其将会报错
+    * exact 路由严格匹配，根据path提供的路径进行严格匹配 html/a/view,如果路由为 a/view 流浪其将会报错
